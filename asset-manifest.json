@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-UI-component/static/css/main.5173b87a.chunk.css",
+    "main.js": "/React-UI-component/static/js/main.5b297e32.chunk.js",
+    "main.js.map": "/React-UI-component/static/js/main.5b297e32.chunk.js.map",
+    "runtime-main.js": "/React-UI-component/static/js/runtime-main.7780bee0.js",
+    "runtime-main.js.map": "/React-UI-component/static/js/runtime-main.7780bee0.js.map",
+    "static/js/2.c0d39b62.chunk.js": "/React-UI-component/static/js/2.c0d39b62.chunk.js",
+    "static/js/2.c0d39b62.chunk.js.map": "/React-UI-component/static/js/2.c0d39b62.chunk.js.map",
+    "index.html": "/React-UI-component/index.html",
+    "static/css/main.5173b87a.chunk.css.map": "/React-UI-component/static/css/main.5173b87a.chunk.css.map",
+    "static/js/2.c0d39b62.chunk.js.LICENSE.txt": "/React-UI-component/static/js/2.c0d39b62.chunk.js.LICENSE.txt",
+    "static/media/owl.88604619.png": "/React-UI-component/static/media/owl.88604619.png",
+    "static/media/randomimage1.c9a5c23a.jpg": "/React-UI-component/static/media/randomimage1.c9a5c23a.jpg",
+    "static/media/randomimage2.1c92e361.jpg": "/React-UI-component/static/media/randomimage2.1c92e361.jpg",
+    "static/media/shoes-png-45073.674c2fb9.png": "/React-UI-component/static/media/shoes-png-45073.674c2fb9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7780bee0.js",
+    "static/js/2.c0d39b62.chunk.js",
+    "static/css/main.5173b87a.chunk.css",
+    "static/js/main.5b297e32.chunk.js"
+  ]
+}
